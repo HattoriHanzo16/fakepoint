@@ -2,14 +2,20 @@
 
 A simple tool for creating fake API endpoints during development. Set up mock endpoints with custom responses without writing any backend code.
 
-## Features
+![Fakepoint Screenshot](packages/client/public/screenshot.png)
 
-- **Easy Setup**: Create fake API endpoints through a simple web interface
-- **Custom Responses**: Define custom JSON responses, status codes, and headers
-- **Multiple HTTP Methods**: Support for GET, POST, PUT, DELETE, PATCH
-- **Real-time Management**: Enable/disable endpoints on the fly
-- **Modern UI**: Clean, responsive React interface
-- **TypeScript**: Full type safety throughout the application
+*Fakepoint's beautiful, modern interface makes API mocking a breeze*
+
+## ✨ Features
+
+- **🎨 Beautiful Interface**: Modern, gradient-powered UI with smooth animations
+- **🚀 Easy Setup**: Create fake API endpoints through a simple web interface
+- **🎯 Custom Responses**: Define custom JSON responses, status codes, and headers
+- **🔄 Multiple HTTP Methods**: Support for GET, POST, PUT, DELETE, PATCH
+- **⚡ Real-time Management**: Enable/disable endpoints on the fly
+- **📱 Responsive Design**: Works perfectly on desktop, tablet, and mobile
+- **🛡️ TypeScript**: Full type safety throughout the application
+- **🎭 Professional Grade**: Enterprise-ready styling and user experience
 
 ## Project Structure
 
